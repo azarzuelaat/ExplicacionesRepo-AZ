@@ -1,2 +1,2 @@
 Explicación de repo 
-file1.txt, file2.txt, file3.txt 
+file1.txt is in this repository 
